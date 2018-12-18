@@ -9,4 +9,3 @@ The data is made available to public by Yelp and is in JSON format. Please go to
  We You need to write a MapReduce program which takes review.json as input and for each business_id it outputs the number of reviews that are given to that business id with 5,4,3,2,1 stars . Your output should be in the following format: 
  
 <business_id> <stars>  <review_count> 
- 
