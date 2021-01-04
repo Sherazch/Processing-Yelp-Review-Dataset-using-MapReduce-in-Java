@@ -1,4 +1,4 @@
-# Processing-Yelp-Review-Dataset-using-MapReduce-in-Javs
+# Processing-Yelp-Review-Dataset-using-MapReduce-in-Java
 A MapReduce program which takes review.json as input and for each business_id it outputs the number of reviews that are given to that business id with 5,4,3,2,1 stars 
 
 
